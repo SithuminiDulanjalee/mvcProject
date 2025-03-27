@@ -10,7 +10,7 @@ package edu.ijse.mvc.db;
  
  /**
   *
-  * @author anjana
+  * @author User
   */
  public class DBConnection {
      private static DBConnection dBConnection;
